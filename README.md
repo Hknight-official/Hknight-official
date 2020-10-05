@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Thesieutoc](https://thesieutoc.net)
 
-- 🌱 I’m currently learning **everything you need**
+- 🌱 I can learning **everything you need**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hknight-official](https://github.com/Hknight-official)
 
