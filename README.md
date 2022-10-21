@@ -36,6 +36,14 @@ My Skill:
          src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
+**Android Developer (prospective)**
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+
+</p>
+
 **DevOps**
 
 <p>
@@ -55,14 +63,6 @@ My Skill:
     <img alt="phpstorm" src="http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white" />
     <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
-
-**Learning History**
-  + 4/2/2015: try to create website simple with HTML, CSS.
-  + 26/8/2015: starting with PHP, MYSQL.
-  + 9/7/2017: staring with Javascript.
-  + 26/5/2018: try with electronjs but then i give up.
-  + 15/4/2019: start with NodeJS.
-  + 24/12/2020: getting for learning Lavarel Framework.
 
 <hr/>
 <h3 align="center"> Social </h3>
