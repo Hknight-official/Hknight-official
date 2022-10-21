@@ -1,9 +1,9 @@
 # Hknight 🧑🏻‍💻 ![]
-I'm Hknight (Thà Lê), My major field is Software Engineer but now I learning and studying Artificial Intelligence in FPT University Ho Chi Minh.
+I'm Hknight (Thà Lê), My major field is **Software Engineer** but now I learning and studying **Artificial Intelligence** in **FPT University Ho Chi Minh**.
 
 My Skill:
 
-**Web Developer **
+**Web Developer**
 
 <p>
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -19,7 +19,7 @@ My Skill:
 
 </p>
 
-**Backend Developer **
+**Backend Developer**
 
 <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
