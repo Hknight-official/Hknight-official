@@ -56,6 +56,14 @@ My Skill:
     <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
 
+**My History Learning**
+  + 4/2/2015: try to create website simple with HTML, CSS.
+  + 26/8/2015: starting with PHP, MYSQL.
+  + 9/7/2017: staring with Javascript.
+  + 26/5/2018: try with electronjs but then i give up.
+  + 15/4/2019: start with NodeJS.
+  + 24/12/2020: getting for learning Lavarel Framework.
+
 <hr/>
 <h3 align="center"> Social </h3>
 <p align="center">
