@@ -49,12 +49,12 @@ My Skill:
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
     <img alt="phpstorm" src="http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white" />
-    <img alt="webstorm" src="	https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
+    <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
 
 <hr/>
 <h3 align="center"> Social </h3>
 <p align="center">
-    <a href="https://stackoverflow.com/users/11879674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="takahatashun" height="30" width="30" /></a>
-    <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="me.takahatashun" height="30" width="30" /></a>
+    <a href="https://stackoverflow.com/users/11879674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
+    <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
 </p>
