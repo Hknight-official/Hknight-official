@@ -56,7 +56,7 @@ My Skill:
     <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
 
-**My History Learning**
+**Learning History**
   + 4/2/2015: try to create website simple with HTML, CSS.
   + 26/8/2015: starting with PHP, MYSQL.
   + 9/7/2017: staring with Javascript.
