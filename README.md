@@ -34,6 +34,8 @@ My Skill:
          src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Express"
          src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+    <img alt="Laravel"
+         src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 **Android Developer (prospective)**
