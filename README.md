@@ -67,9 +67,8 @@ My Skill:
     <img alt="webstorm" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
-<hr/>
 **Social Platform**
-<p align="center">
+<p>
     <a href="https://stackoverflow.com/users/11879674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
     <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
 </p>
