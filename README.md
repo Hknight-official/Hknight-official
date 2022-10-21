@@ -69,6 +69,6 @@ My Skill:
 
 **Social Platform**
 <p>
-    <a href="https://stackoverflow.com/users/11879674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
-    <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
+        <a href="https://stackoverflow.com/users/11879674" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+    <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
