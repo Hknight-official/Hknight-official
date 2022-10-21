@@ -35,7 +35,7 @@ My Skill:
     <img alt="Express"
          src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
     <img alt="Laravel"
-         src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+         src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
 **Android Developer (prospective)**
