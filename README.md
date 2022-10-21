@@ -1,5 +1,7 @@
 # Hknight 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Hknight-official.readme) [![wakatime](https://wakatime.com/badge/user/55e745a2-fbe2-45ae-82d1-b9c4c8f93a38.svg)](https://wakatime.com/@55e745a2-fbe2-45ae-82d1-b9c4c8f93a38)
-I'm Hknight (Thà Lê), My major field is **Software Engineer** but now I learning and studying **Artificial Intelligence** in **FPT University Ho Chi Minh**.
+I'm Hknight (Thà Lê).
+My major field is **Software Engineer** but now I learning and studying **Artificial Intelligence**.
+Student of **The University Of FPT Ho Chi Minh**.
 
 My Skill:
 
