@@ -69,11 +69,6 @@ My Skill:
         <a href="https://stackoverflow.com/users/11879674/hknight" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
     <a href="https://www.facebook.com/tha.le.1426" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-<hr>
-<br>
-<p align="center">
-	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Hknight-official&show_icons=true&title_color=E6B450&text_color=BFBDB6&icon_color=59C2FF&bg_color=131721&hide_border=true&border_radius=12&include_all_commits=true&count_private=true">
-</p>
 
 <hr>
 <br>
@@ -100,7 +95,8 @@ My Skill:
   
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hknight-official&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hknight-official&theme=github_dark" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hknight-official&theme=github_dark" width="800"> | <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Hknight-official&show_icons=true&title_color=E6B450&text_color=BFBDB6&icon_color=59C2FF&bg_color=131721&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="800">	 |
+
   
   
 </a>
