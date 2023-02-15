@@ -74,3 +74,33 @@ My Skill:
 <p align="center">
 	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Hknight-official&show_icons=true&title_color=E6B450&text_color=BFBDB6&icon_color=59C2FF&bg_color=131721&hide_border=true&border_radius=12&include_all_commits=true&count_private=true">
 </p>
+
+<hr>
+<br>
+
+<a href="https://github.com/hknight-official#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hknight-official&theme=github" width="100%">
+</a>
+
+<a href="https://github.com/hknight-official#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hknight-official&theme=github_dark" width="100%">
+</a>
+
+
+<a href="https://github.com/hknight-official#gh-light-mode-only">
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hknight-official&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hknight-official&theme=github" width="800"> |
+  
+</a>
+
+
+<a href="https://github.com/hknight-official#gh-dark-mode-only">
+  
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hknight-official&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hknight-official&theme=github_dark" width="800"> |
+  
+  
+</a>
